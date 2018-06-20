@@ -35,3 +35,10 @@ https://github.com/pablodav/kubernetes-for-windows#step-3---install-kubernetes-p
 # Warning
 
 Be careful, don't save the credentials in a public repository, do not upload the changes you made in vars to your forked repo. Also use vaults to save credentials whenever is possible.
+
+Publish services on Premises
+============================
+
+Use this model for on-premises:
+
+https://medium.com/@kyralak/accessing-kubernetes-services-without-ingress-nodeport-or-loadbalancer-de6061b42d72
