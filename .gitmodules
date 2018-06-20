@@ -1,0 +1,6 @@
+[submodule "roles/3d/kubespray"]
+	path = roles/3d/kubespray
+	url = https://github.com/kubernetes-incubator/kubespray.git
+[submodule "roles/3d/kubernetes-for-windows"]
+	path = roles/3d/kubernetes-for-windows
+	url = https://github.com/pablodav/kubernetes-for-windows
